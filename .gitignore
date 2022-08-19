@@ -1,0 +1,7 @@
+*
+!*/
+!/*Data/*.json
+!/*Data/**/*.txt
+!/.gitignore
+!LICENSE
+!README.md
